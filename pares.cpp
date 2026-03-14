@@ -1,3 +1,6 @@
+//Jessica Maria Martinez Monterrosa
+//ID: 00606503
+//Ingenieria en animacion digital
 #include <iostream>
 using namespace std;
 int main() {
